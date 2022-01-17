@@ -16,7 +16,7 @@ Matthias is a PhD scientists, founder of design studio higsch, and now co-lead o
 Join us on **Tuesday, 25th of January** at 5pm Berlin / 4 pm London / 11am East Coast US / 8 am California / (recording available) 
 **"From bench to news site: Changing the world with data visualization"** 
 
-![portrait_MS](https://user-images.githubusercontent.com/10805730/149769859-cfd9cf69-7371-41bf-b6a1-8ebbab1aa045.png)
+![BioVis-Meetup_Flyer_Matthias_banner-01](https://user-images.githubusercontent.com/10805730/149774724-18b6006d-c1c8-4f99-be16-84cbb5fca110.png)
 
 ## Zoom-link
 Join Zoom Meeting
@@ -24,3 +24,10 @@ https://tu-dresden.zoom.us/j/89272023943?pwd=eUQ1TEtITXRCUEFRZGhNMi96VEczUT09
 
 Meeting ID: 892 7202 3943
 Passcode: 0.pG5*Vt
+
+
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
