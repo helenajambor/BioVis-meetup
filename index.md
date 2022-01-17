@@ -1,4 +1,4 @@
-![BioVis_logo_only-01](https://user-images.githubusercontent.com/10805730/149772547-771059c5-1d02-4305-8d17-39d2401679cc.png)
+![BioVis-Meetup_Flyer_Header-01](https://user-images.githubusercontent.com/10805730/149774941-080fc3cc-5ccf-4cf6-84f1-13ad3c9675c6.png)
 
 # Welcome to the BioVis meetup
 
