@@ -9,7 +9,7 @@ We hope this space will grow over time and evolve with input from the worldwide 
 More about the BioVis community: [BioVis.net](http://biovis.net/) 
 
 
-## Invitaion to BioVis meetup #1
+## Invitation to BioVis meetup #1
 For the January'22 BioVis meetup we'll have a presentation and chat with **Matthias Stahl** from DER SPIEGEL. 
 Matthias is a PhD scientists, founder of design studio higsch, and now co-lead of Graphics & Interactive department at a leading German weekly. Matthias will describe his route from bacteria and childhood cancer to political news and how this is all conntected by his passion for data and visualizations. 
 
