@@ -6,17 +6,21 @@ The **BioVis-meetup** is a new virtual seminar series organised by the BioVis co
 
 We hope this space will grow over time and evolve with input from the worldwide community of all people "BioVis": wet lab researchers, clinicians, bioinformaticians, visualization researchers, designers, data scientsts, all invested in biomedical data visualization.
 
-More abou the BioVis community: [BioVis.net](http://biovis.net/) 
+More about the BioVis community: [BioVis.net](http://biovis.net/) 
 
 
 ## Invitaion to BioVis meetup #1
+For the January'22 BioVis meetup we'll have a presentation and chat with **Matthias Stahl** from DER SPIEGEL. 
+Matthias is a PhD scientists, founder of design studio higsch, and now co-lead of Graphics & Interactive department at a leading German weekly. Matthias will describe his route from bacteria and childhood cancer to political news and how this is all conntected by his passion for data and visualizations. 
 
 Join us on **Tuesday, 25th of January** at 5pm Berlin / 4 pm London / 11am East Coast US / 8 am California / (recording available) 
-** "From bench to news site: Changing the world with data visualization"** 
-
-We'll have a presentation and chat with Matthias Stahl, from DER SPIEGEL. 
-Matthias is a PhD scientists, founder of design studio higsch, and now co-lead of Graphics & Interactive department at a leading German weekly. Matthias will describe his route from bacteria and childhood cancer to political news and how this is all conntected by his passion for data and visualizations. 
+**"From bench to news site: Changing the world with data visualization"** 
 
 ![portrait_MS](https://user-images.githubusercontent.com/10805730/149769859-cfd9cf69-7371-41bf-b6a1-8ebbab1aa045.png)
 
 ## Zoom-link
+Join Zoom Meeting
+https://tu-dresden.zoom.us/j/89272023943?pwd=eUQ1TEtITXRCUEFRZGhNMi96VEczUT09
+
+Meeting ID: 892 7202 3943
+Passcode: 0.pG5*Vt
