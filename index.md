@@ -2,9 +2,9 @@
 
 # Welcome to the BioVis meetup
 
-The **BioVis meetup** is a new virtual seminar series organised by the BioVis community to complement the BioVis sessions at ISMB (July) and IEEE Vis (October). Why? We wanted to hang out more regularly with the BioVis community. 
+The **BioVis meetup** is a new virtual seminar series organised by the BioVis network to complement the BioVis sessions at ISMB (July) and IEEE Vis (October). Why? We wanted to hang out more regularly with the BioVis community. 
 
-We hope this space will grow over time and evolve with input from the worldwide community of all people "BioVis": wet lab researchers, clinicians, bioinformaticians, visualization researchers, designers, data scientsts, all invested in biomedical data visualization.
+We hope this space will grow over time and evolve with input from the worldwide community of all people "BioVis": wet lab researchers, clinicians, bioinformaticians, visualization researchers, designers, data scientists, all invested in biomedical data visualization.
 
 More about the BioVis community: [BioVis.net](http://biovis.net/) 
 # Updates
@@ -14,7 +14,7 @@ Problems? Contact helena.jambor@tu-dresden.de
 
 # BioVis meetup #1
 For the January'22 BioVis meetup we'll have a presentation and chat with **Matthias Stahl** from DER SPIEGEL. 
-Matthias is a PhD scientists, founder of design studio higsch, and now co-lead of Graphics & Interactive department at a leading German weekly. Matthias will describe his route from bacteria and childhood cancer to political news and how this is all conntected by his passion for data and visualizations. 
+Matthias is a PhD scientists, founder of design studio higsch, and now co-lead of Graphics & Interactive department at a leading German weekly. Matthias will describe his route from bacteria and childhood cancer to political news and how this is all connected by his passion for data and visualizations. 
 
 Join us on **Tuesday, 25th of January** at 5pm Berlin / 4 pm London / 11am East Coast US / 8 am California / (recording available) 
 **"From bench to news site: Changing the world with data visualization"** 
