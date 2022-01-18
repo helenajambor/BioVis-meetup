@@ -7,9 +7,12 @@ The **BioVis meetup** is a new virtual seminar series organised by the BioVis co
 We hope this space will grow over time and evolve with input from the worldwide community of all people "BioVis": wet lab researchers, clinicians, bioinformaticians, visualization researchers, designers, data scientsts, all invested in biomedical data visualization.
 
 More about the BioVis community: [BioVis.net](http://biovis.net/) 
+# Updates
+Get regular updates about upcoming BioVis meetups through the mailing list BioVis-Meetup@groups.tu-dresden.de. 
+How to join: send email with subject 'subscribe' to BioVis-Meetup-request@groups.tu-dresden.de.
+Problems? Contact helena.jambor@tu-dresden.de
 
-
-## Invitation to BioVis meetup #1
+# BioVis meetup #1
 For the January'22 BioVis meetup we'll have a presentation and chat with **Matthias Stahl** from DER SPIEGEL. 
 Matthias is a PhD scientists, founder of design studio higsch, and now co-lead of Graphics & Interactive department at a leading German weekly. Matthias will describe his route from bacteria and childhood cancer to political news and how this is all conntected by his passion for data and visualizations. 
 
