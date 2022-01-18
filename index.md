@@ -19,6 +19,8 @@ Join us on **Tuesday, 25th of January** at 5pm Berlin / 4 pm London / 11am East 
 ![BioVis-Meetup_Flyer_Matthias_banner-01](https://user-images.githubusercontent.com/10805730/149774724-18b6006d-c1c8-4f99-be16-84cbb5fca110.png)
 
 ## Zoom-link
+[Join meeting](https://tu-dresden.zoom.us/j/89272023943?pwd=eUQ1TEtITXRCUEFRZGhNMi96VEczUT09)
+
 ![Join Zoom Meeting](https://tu-dresden.zoom.us/j/89272023943?pwd=eUQ1TEtITXRCUEFRZGhNMi96VEczUT09)
 
 Meeting ID: 892 7202 3943
